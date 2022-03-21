@@ -1,7 +1,7 @@
-**[Projects](https://steenblikrs.github.io/2021-Spring-Studio/Research)** &nbsp; &nbsp; &nbsp;        **Resources**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
+**[Projects](https://keanmgc.github.io/2021-Spring-Studio/Research)** &nbsp; &nbsp; &nbsp;        **Resources**  &nbsp; &nbsp; &nbsp;    **[About](https://keanmgc.github.io/2021-Spring-Studio/About)**
 
 
-##### **Purpose-built Cities [(planned communities)](https://en.wikipedia.org/wiki/Planned_community) focusing on Capitals** ([Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html))
+##### **Purpose-built Cities [(planned communities)](https://en.wikipedia.org/wiki/Planned_community) focusing on Capitals** ([Syllabus](https://keanmgc.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html))
 
 
 The Great Capital Cities of China:
@@ -51,7 +51,7 @@ Possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
   
   <br/><br/><br/><br/> <!-- These are line breaks -->
 
-##### **Representation - A Digital Lexicon** ([Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH2304Rep4Syllabus.html))
+##### **Representation - A Digital Lexicon** ([Syllabus](https://keanmgc.github.io/2021-Spring-Studio/SP2021WARCH2304Rep4Syllabus.html))
 
 **Grasshopper** [(General Tutorial)](https://kean-edu.zoom.us/rec/share/RKNLQYQu6KcwaTWdO5uN-IjPCdeNsK0QpmfLH1t8hMnLJ-YmPUtb5xBFkyvKLeY.Jv5RHYU-MHv-1p12?startTime=1614405732000), [(Kangaroo Tutorial)](https://kean-edu.zoom.us/rec/share/g7yWFRbOKFmnFVWBWqfuxmHt20XIg4Fg73QLxA6aGbQwGSweWkonUg0DCtv7-m55.8nZYOOGZ9Ki4N_Kr?startTime=1614410919000)
 
@@ -119,7 +119,7 @@ If you are trying to display an environment try a photosphere export from your 3
 <iframe src='https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/' frameborder='0' width='100%' height='100%'></iframe>
 Or if you are trying to display objects (not an environment) try a tool such as [Spline Design](https://spline.design/) If you click on **[this](https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/)** link you can view it full screen on your phone
 
-[![Dalzen Residence](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages//assets/Organic01W.gif?raw=true "Dalzen Residence")]()
+[![Dalzen Residence](https://github.com/keanmgc/2021-Spring-Studio/blob/gh-pages//assets/Organic01W.gif?raw=true "Dalzen Residence")]()
 
 <br/>
 
@@ -138,7 +138,7 @@ Or if you are trying to display objects (not an environment) try a tool such as 
 
 
 
-[Here is a reference file that will help you understand the basic syntax of markdown](https://steenblikrs.github.io/2021-Spring-Studio/Techproof)
+[Here is a reference file that will help you understand the basic syntax of markdown](https://keanmgc.github.io/2021-Spring-Studio/Techproof)
 
 
 
