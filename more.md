@@ -1,4 +1,4 @@
-**[Projects](https://steenblikrs.github.io/2021-Spring-Studio/Research)** &nbsp; &nbsp; &nbsp;        **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
+**[Projects](https://keanmgc.github.io/2021-Spring-Studio/Research)** &nbsp; &nbsp; &nbsp;        **[Resources](https://keanmgc.github.io/2021-Spring-Studio/Resources)**  &nbsp; &nbsp; &nbsp;    **[About](https://keanmgc.github.io/2021-Spring-Studio/About)**
 
 <strong>Additional Research</strong>
 
@@ -18,5 +18,5 @@ Inspired by the [USC WBML](https://worldbuilding.usc.edu/) "Spaceship Earth 2050
 <br/>
 
 <br>
-**<a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/station/index">City of a Thousand Planets</a>**
+**<a href="https://keanmgc.github.io/2021-Spring-Studio/Research/station/index">City of a Thousand Planets</a>**
 
