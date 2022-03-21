@@ -1,4 +1,4 @@
-**[Projects](https://steenblikrs.github.io/2021-Spring-Studio/Research)** &nbsp; &nbsp; &nbsp;        **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
+**[Projects](https://keanmgc.github.io/2021-Spring-Studio/Research)** &nbsp; &nbsp; &nbsp;        **[Resources](https://keanmgc.github.io/2021-Spring-Studio/Resources)**  &nbsp; &nbsp; &nbsp;    **[About](https://keanmgc.github.io/2021-Spring-Studio/About)**
 
 
 **Graham Brenton McKay** [Misfits' Architecture](https://misfitsarchitecture.com/)
